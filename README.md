@@ -8,9 +8,11 @@
 
 - 📫 Entre em contato comigo: **vitormendes388@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitormo&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaovitormo" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitormo&show_icons=true&locale=en&theme=radical" alt="joaovitormo" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitormo&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaovitormo" /></p>
+
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">

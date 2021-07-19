@@ -8,6 +8,11 @@
 
 - 📫 Entre em contato comigo: **vitormendes388@gmail.com**
 
+- 🎮 Fun fact: O primeiro jogo que tive que contato, é o meu favorito até hoje... Super Mario World 🗺🌎
+
+- 📍 Sou de Guarulhos-SP
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitormo&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaovitormo" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitormo&show_icons=true&locale=en&theme=radical" alt="joaovitormo" /></p>

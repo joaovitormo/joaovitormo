@@ -10,7 +10,7 @@
 
 - 🎮 Fun fact: O primeiro jogo que tive que contato, é o meu favorito até hoje... Super Mario World 🗺🌎
 
-- 📍 Sou de Guarulhos-SP
+
 
 
 

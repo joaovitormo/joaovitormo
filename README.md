@@ -13,12 +13,12 @@
 
 <div>
  <img height="180em" align="left"  src="https://github-readme-stats.vercel.app/api?username=joaovitormo&show_icons=true&locale=en&theme=radical" alt="joaovitormo" />
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitormo&show_icons=true&locale=en&theme=radical" alt="joaovitormo" />
+<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitormo&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaovitormo" />
 
 </div>
 
 
-<div style="display: inline_block">
+
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="vitormendes388@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

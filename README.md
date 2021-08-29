@@ -4,7 +4,7 @@
 
 - 🚀 Tenho 20 anos, e atualmente estou estudando para me tornar um desenvolvedor Full Stack Java Jr.
 
-- 🌱 Atualmente estudando **Java e Angulart**
+- 🌱 Atualmente estudando **Java e Angular**
 
 - 🎮 Fun fact: O primeiro jogo que tive que contato, é o meu favorito até hoje... Super Mario World 🗺🌎
 

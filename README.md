@@ -2,21 +2,11 @@
 <h3>Olá, seja bem vindo ao meu GitHub :)</h3>
 
 
-- 🚀 Tenho 20 anos, e atualmente estou estudando para me tornar um desenvolvedor Full Stack Java Jr.
-
-- 🌱 Atualmente estudando **Java e Angular**
-
-- 🎮 Fun fact: O primeiro jogo que tive que contato, é o meu favorito até hoje... Super Mario World 🗺🌎
-
-
-
-
 <div>
  <img height="180em" align="left"  src="https://github-readme-stats.vercel.app/api?username=joaovitormo&show_icons=true&locale=en&theme=radical" alt="joaovitormo" />
 <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitormo&show_icons=true&locale=en&layout=compact&theme=radical" alt="joaovitormo" />
 
 </div>
-
 
 
 - <h3 align="left">Connect with me:</h3>

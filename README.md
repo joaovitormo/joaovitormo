@@ -1,6 +1,4 @@
 <h1>Hello World 👋, I'm João <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40" height="40"></h1> 
-<h3>Olá, seja bem vindo ao meu GitHub :)</h3>
-
 
 <div>
  <img height="180em" align="left"  src="https://github-readme-stats.vercel.app/api?username=joaovitormo&show_icons=true&locale=en&theme=radical" alt="joaovitormo" />

@@ -23,10 +23,6 @@
   <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a> </p>
 
-- <h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaovitormo&theme=radical" alt="joaovitormo" /></a> </p>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif">
 
 ![Snake animation](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg)
 
